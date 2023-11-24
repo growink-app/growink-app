@@ -41,7 +41,7 @@ Our data model is designed to ensure smooth interactions and seamless data manag
 
 ## Our Team
 
-Meet the masterminds behind FEASTIVAL:
+Meet the masterminds behind Growink.:
 
 | Name           | Role                      |
 | :------------- | :------------------------ |
