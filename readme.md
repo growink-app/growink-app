@@ -2,6 +2,10 @@
 
 Growink App is a website with a mobile web base which aims to make it easier for farmers to make agricultural records, view agricultural history, and monitor their agriculture, apart from that there is a financial feature which aims to record their expenses and income and can see the history of their expenses and income and can also see their balance
 
+### Live Demo
+
+- [Growink](https://growink.vercel.app/)
+
 ### Features
 
 - Create an account and add a personalized profile photo.
@@ -21,7 +25,7 @@ Growink leverages the following tech stack to ensure a top-notch experience:
 
 - Backend: NestJs, PostgreSQL, Prisma ORM, Railway, REST API, Swagger
 
-- Frontend: Next.js, React Hook Form, Mateial Ui, , React, Vercel
+- Frontend: Next.js, React Hook Form, Mateial Ui, Vercel, React toastify
 
 ## Our Organization Repo
 
